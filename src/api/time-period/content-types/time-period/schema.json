@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "time_periods",
+  "info": {
+    "singularName": "time-period",
+    "pluralName": "time-periods",
+    "displayName": "TimePeriod"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "start": {
+      "type": "biginteger"
+    },
+    "end": {
+      "type": "biginteger"
+    }
+  }
+}

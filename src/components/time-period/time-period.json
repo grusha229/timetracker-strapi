@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_time_period_time_periods",
+  "info": {
+    "displayName": "TimePeriod",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "start": {
+      "type": "biginteger"
+    },
+    "end": {
+      "type": "biginteger"
+    }
+  }
+}
